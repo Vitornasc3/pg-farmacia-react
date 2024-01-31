@@ -23,7 +23,7 @@ function ListarCategorias() {
                     visible={true}
                     height="200"
                     width="auto"
-                    color="purple"
+                    color="red"
                     ariaLabel="tail-spin-loading"
                     radius="1"
                     wrapperStyle={{}}

@@ -1,4 +1,4 @@
-import image from "../../assets/First-Aid-Heart.svg"
+import image from "../../assets/Medical-Icons-First-Aid-Heart.svg"
 
 function Home() {
     return (
