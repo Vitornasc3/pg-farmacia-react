@@ -5,5 +5,5 @@ export default interface Produto {
     nome: string;
     preco: number;
     foto?: string;
-    categoria: Categoria | null;
+    categoria?: Categoria | null;
 }

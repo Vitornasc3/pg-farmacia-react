@@ -1,4 +1,5 @@
 import image from "../../assets/Medical-Icons-First-Aid-Heart.svg"
+import ListarProdutos from "../../components/produto/listarprodutos/ListarProdutos"
 
 function Home() {
     return (
@@ -14,6 +15,8 @@ function Home() {
                     className='w-2/3'
                 />
             </div>
+            <div className="flex w-screen"><ListarProdutos /></div>
+
 
         </div>
     )
